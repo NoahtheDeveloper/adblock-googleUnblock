@@ -1,0 +1,10 @@
+[Adblock Plus 3.5]
+! Title: Custom Google G-Suite Whitelist
+! 
+! Last modified: 6 May 2021
+! Expires: 14 days
+! Version: 0000002
+!
+!
+!1#-----------------------Whitelisting Filters-----------------------!
+@@||docs.google.com/*^$document
