@@ -1,7 +1,7 @@
 [Adblock Plus 3.5]
 ! Title: Custom Google G-Suite Whitelist
 ! 
-! Last modified: 6 May 2021
+! MADE BY NOAH
 ! Expires: 14 days
 ! Version: 0000002
 !
